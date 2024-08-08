@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## The name's Rebecca, I'm currently a flutter developer based in Malaysia.
+## The name's yong, I'm currently a flutter developer based in Malaysia.
 
 <!-- Check me out at my [personal website](https://insertlink here) -->
 
